@@ -7,10 +7,10 @@ def sair():
     while True:
        #TEstando se usuario está digitando S ou N.
        #Caso estiver digitando uma opção invalida ira repetir até que seja digitado uma opção valida
-        if not sair == "S" and not sair == "N":
-             sair=str(input(f"{cor('vermelho')}Opção Invalida! Digite Apenas S/N :"))
+        if not sair.upper() == "S" and not sair == "N":
+             sair = str(input(f"{cor('vermelho')}Opção Invalida! Digite Apenas S/N :"))
         else:
-            if sair == "S":
+            if sair.upper() == "S":
                 break
             else:
                 print(f"{cor('vermelho')}SISTEMA ENCERRADO!")

@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18886eb3-561a-4b34-9026-4cea8d52b9e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/validacoes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/APS_Logica_de_Programacao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/APS_Logica_de_Programacao.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/menu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operacoes.py" beforeDir="false" afterPath="$PROJECT_DIR$/operacoes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/validacoes.py" beforeDir="false" afterPath="$PROJECT_DIR$/validacoes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +28,6 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -32,6 +35,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Gustavo Batista\Documents\GitHub\APS_Logica_de_Programacao" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Batistovsky\PycharmProjects\APS_Logica_de_Programacao" />
       <recent name="C:\Users\Batistovsky\PycharmProjects\APS_Logica_de_Programacao\venv" />
@@ -129,9 +135,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\Gustavo Batista\PycharmProjects\aulasPy3.6\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/principal.py" />
@@ -167,25 +173,33 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="392" y="0" key="#principal_(1)" timestamp="1623715403988">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="392" y="0" key="#principal_(1)/0.0.1366.728@0.0.1366.728" timestamp="1623715403988" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1623531760485">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1623531760485" />
-    <state width="745" height="216" key="GridCell.Tab.0.bottom" timestamp="1623544105159">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1345" height="201" key="GridCell.Tab.0.bottom" timestamp="1623720350863">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1345" height="201" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1623720350863" />
     <state width="745" height="216" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1623544105159" />
-    <state width="745" height="216" key="GridCell.Tab.0.center" timestamp="1623544105159">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1345" height="201" key="GridCell.Tab.0.center" timestamp="1623720350863">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1345" height="201" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1623720350863" />
     <state width="745" height="216" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1623544105159" />
-    <state width="745" height="216" key="GridCell.Tab.0.left" timestamp="1623544105158">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1345" height="201" key="GridCell.Tab.0.left" timestamp="1623720350863">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1345" height="201" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1623720350863" />
     <state width="745" height="216" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1623544105158" />
-    <state width="745" height="216" key="GridCell.Tab.0.right" timestamp="1623544105159">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1345" height="201" key="GridCell.Tab.0.right" timestamp="1623720350863">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1345" height="201" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1623720350863" />
     <state width="745" height="216" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1623544105159" />
     <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1623527769373">
       <screen x="0" y="0" width="1536" height="824" />
